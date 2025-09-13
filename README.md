@@ -146,7 +146,7 @@
     <!-- 📌 Texto en recuadro -->
     <div class="declaration">
       <h1>Para Mi Morochita</h1>
-      <p>La verdad ya no me aguanto más, desde hace 3 meses que hablamos cada día me gustas más y no puedo seguir logrando que tú no me quieras; por esto te hice todo esto, para que veas que de verdad te quiero y te amo. No dejes de quererme. ❤️‍🩹</p>
+      <p>La verdad ya no me aguanto más, desde hace 3 meses que hablamos cada día me gustas más y no puedo seguir logrando que tú no me quieras, por esto te hice todo esto, para que veas que de verdad te quiero y te amo. No dejes de quererme. y entiendas cuanto te amo y por eso quiero preguntarte  ❤️‍🩹</p>
 
       <div class="question">¿Quieres ser mi novia?</div>
 
